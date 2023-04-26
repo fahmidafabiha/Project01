@@ -1,0 +1,269 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.one{
+    
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+.row{
+    display: flex;
+}
+
+.col-left{
+    flex-basis: 50%;
+}
+.col-right{
+    flex-basis: 50%;
+
+}
+
+h1{
+    font-size: 50px;
+    font-family: arial;
+    text-transform: uppercase;
+    color: black;
+    padding-left: 20px;
+    border-left: 5px solid red;
+    margin-top: 100px;
+}
+
+.different-text{
+    color: red;
+}
+
+p{
+    color: gray;
+    line-height: 26px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 70px;
+    font-size: 17px;
+    text-align: justify;
+}
+
+a{
+    background-color: red;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px 30px 10px 30px;
+    color: white;
+    border-radius: 3px;
+    font-size: 15px;
+}
+
+.img1{
+    width: 80%;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+/* section 1 end */
+
+.row1{
+    display: flex;
+    padding-left: 35%;
+    font-size: 20px;
+    font-family: arial;
+    text-transform: uppercase;
+
+}
+
+.row1-diff-text{
+    color: red;
+}
+
+.row2{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-right: 7%;
+
+}
+
+.imgrow2{
+    padding: 10px;
+}
+
+.form1{
+    width: 350px;
+    height: 280px;
+    border-radius: 3px;
+    background-color: rgb(225, 225, 238);
+    margin-left: 7%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+h4{
+    padding-left: 20px;
+    color: brown;
+}
+
+.mission{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    font-size: 17px;
+}
+
+
+
+.form2{
+    width: 350px;
+    height: 280px;
+    border-radius: 3px;
+    background-color: rgb(240, 211, 229);
+    background-size: 100px;
+    margin-left: 7%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.form3{
+    width: 350px;
+    height: 280px;
+    border-radius: 3px;
+    background-color: rgb(229, 241, 186);
+    background-size: 100px;
+    margin-left: 7%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+/* section 2 end */
+
+
+
+.row-s3{
+    display: flex;
+}
+
+.s3-col-left{
+    flex-basis: 50%;
+}
+
+.s3-img{
+    width: 80%;
+    padding-left: 90px;
+}
+
+.s3-col-right{
+    flex-basis: 50%;
+}
+
+h2{
+    font-family: Arial;
+    margin-top: 40px;
+}
+
+
+/* section 3 end */
+
+.row-s4{
+    display: flex;
+    margin-left: 90px;
+}
+
+.s4-col-left{
+    flex-basis: 50%;
+}
+
+.s4-h2{
+    font-family: Arial;
+    margin-top: 50px;
+}
+
+
+
+.s4-col-right{
+    flex-basis: 50%;
+}
+
+.s4-img{
+    width: 80%;
+    padding-left: 20px;
+}
+
+/* section 4 end */
+
+.s5-row1{
+    display: flex;
+    padding-left: 35%;
+    font-size: 20px;
+    font-family: arial;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+
+}
+
+.s5-row1-diff-text{
+    color: red;
+}
+
+.s5-row2{
+    display: flex;
+}
+
+.s5-col-left{
+    flex-basis: 50%;
+}
+
+.s5-img{
+    width: 60%;
+    padding-left: 100px;
+}
+
+.s5-col-right{
+    flex-basis: 50%;
+    padding-top: 50px;
+}
+
+.s5-row2-diff-text{
+    text-transform: uppercase;
+    color: red;
+}
+
+.laudantium{
+    color: rgb(231, 118, 118);
+}
+
+/* section 5 end */
+
+.row-six{
+    height: 180px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    /* display: flex; */
+    background-color: black;
+    padding-top: 100px;
+}
+
+.r6-diff-text{
+    color: white;
+}
+
+.digital{
+    color: rgb(138, 73, 73);
+}
+
+.s6-h2{
+    text-align: center;
+    align-items: center;
+    /* padding-left: 500px; */
+    /* padding-bottom: 5px; */
+}
+
+.cop{
+    padding-left: 505px;
+}
+
+
